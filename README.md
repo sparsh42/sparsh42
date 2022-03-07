@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Sparsh! 
 - 👀 I’m interested in Data Science and Analytics
-- 🌱 I’m currently learning Time - Series and Data Analytics 
-- 💞️ I’m looking to collaborate on Projects about Analytics!
 - 📫 How to reach me - Hit me up on work.sparshjoshi@gmail.com 
 
 <!---
